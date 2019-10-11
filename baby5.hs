@@ -1,0 +1,1 @@
+reverseString at = [ c | c <- at, c `elem` ["A".."Z"]]
